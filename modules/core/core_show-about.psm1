@@ -8,15 +8,14 @@ function Show-About {
 
            (
             )  )
-        ______(____
-       (___________)            
+         ____(__(_
+        (_________)            
         /         \             
-       /           \            
-      |             |           
-  ____\             /____   blackmagic VERSION $ModuleVersion
- ()____'.__     __.'____()  DEVELOPED BY ROSS MURRAY, 2017
-      .'` .'```'. `-.       GITHUB: https://github.com/RossMurr4y
-     ().'`       `'.()      LINKEDIN: linkedin.com/in/ross-murray-a390a3136
+       /           \                       
+  _____\   ,   ;(   /______  blackmagic v$ModuleVersion
+ ()____'._/(_ /  \__.'____() DEVELOPED BY ROSS MURRAY, 2017
+      .'` .'```'. `-.        GITHUB: https://github.com/RossMurr4y
+     ().'`       `'.()       LINKEDIN: linkedin.com/in/ross-murray-a390a3136
 
 "@
 
